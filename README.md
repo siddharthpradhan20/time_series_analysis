@@ -108,7 +108,7 @@ The **Auto-ARIMA** model provided a robust R² score and performed exceptionally
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/SamJoeSilvano/Stock_Price_Time_Series_Analysis.git
+   git clone https://github.com/siddharthpradhan20/time_series_analysis.git
 
 2. Navigate to the project directory:
    cd stock-price-prediction
